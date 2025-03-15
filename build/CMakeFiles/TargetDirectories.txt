@@ -1,0 +1,5 @@
+/Users/anmoli/QT_Project/qthello/build/CMakeFiles/update_translations.dir
+/Users/anmoli/QT_Project/qthello/build/CMakeFiles/hello.dir
+/Users/anmoli/QT_Project/qthello/build/CMakeFiles/edit_cache.dir
+/Users/anmoli/QT_Project/qthello/build/CMakeFiles/rebuild_cache.dir
+/Users/anmoli/QT_Project/qthello/build/CMakeFiles/hello_autogen.dir

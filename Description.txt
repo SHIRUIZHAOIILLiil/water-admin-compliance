@@ -1,0 +1,4 @@
+This is the initial design for Compliance Dashboard Page. 
+It features a header with the title and navigation links, 
+the main content displays the corresponding compliant and non-compliant data based on the conditions selected by the user.
+In Iteration 2, we'll be adding functionality to the table and a quick colour-coded indicator.
